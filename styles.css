@@ -1,0 +1,97 @@
+/* 🔷 GENERAL */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* 🔷 HEADER */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* 🔷 NAV */
+nav {
+    background-color: #555;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* 🔷 MAIN */
+main {
+    padding: 20px;
+}
+
+/* 🔷 SECTIONS */
+section {
+    margin-bottom: 30px;
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+/* 🔷 IMAGE STYLING */
+img {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+/* 🔷 GALLERY */
+.gallery img {
+    width: 30%;
+    margin: 5px;
+}
+
+/* 🔷 FOOTER */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+main {
+    max-width: 900px;
+    margin: 0 auto; /* centers the whole page */
+    padding: 20px;
+}
+section {
+    margin-bottom: 40px;
+}
+img {
+    display: block;
+    margin: 10px auto;
+    max-width: 100%;
+    border-radius: 10px;
+}
+header {
+    background-color: #111;
+    color: white;
+    padding: 20px;
+}
+
+footer {
+    margin-top: 40px;
+    padding: 10px;
+    background-color: #eee;
+}
+p {
+    line-height: 1.6;
+}
